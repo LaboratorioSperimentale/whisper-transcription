@@ -3,6 +3,8 @@
 This repository contains a simple script to run the [whisper utility](https://github.com/openai/whisper) (v20231117) on multiple audio materials.
 A short sample of the audio materials and a simple output are provided in the repository.
 
+The project was developed to support [Barbara Nicoletti](https://www.unibo.it/sitoweb/barbara.nicoletti3)'s PhD Project
+
 # How to?
 
 In order to perform transcription, it is necessary to install `whisper` as detailed on the [github repository](https://github.com/openai/whisper)
